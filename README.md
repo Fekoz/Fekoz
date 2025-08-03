@@ -23,11 +23,17 @@
 ## 🛠️ Технологии и инструменты
 
 **Языки:** Go, Java, PHP, JavaScript/TypeScript, Bash, Lua, C# (legacy)
+
 **Фреймворки:** Spring (Java), Symfony (PHP), Angular, Node.js  
+
 **Архитектура:** C4, UML, BPMN, DDD, GRPC, REST, SOAP, WebSocket  
+
 **Интеграции и BPM:** Camunda, RabbitMQ, Apache Kafka, ActiveMQ, SonicMQ  
+
 **Базы данных:** PostgreSQL, MySQL, MSSQL, Oracle, MongoDB, Redis, ElasticSearch  
+
 **DevOps:** Docker, Docker Swarm, CI/CD (GitLab/Jenkins), Nginx, Envoy, K8s (базово)  
+
 **Прочее:** Git, Jira, Confluence, Backstage.io  
 
 
