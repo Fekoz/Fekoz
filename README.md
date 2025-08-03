@@ -31,15 +31,11 @@
 **Прочее:** Git, Jira, Confluence, Backstage.io  
 
 
-## 📊 Статистика:
-
-![](https://nirzak-streak-stats.vercel.app/?user=Fekoz&theme=moltack&hide_border=false)
-
-
 ## 🚀 Проекты
+
 - [OCCWO](https://occwo.ru/) – интеграция с маркетплейсами
 🔗 Код: [github.com/OCCWO/infra](https://github.com/OCCWO/infra)
-[ФИНАМ]([https://www.finam.ru/](https://www.finambank.ru/)) – микросервисная архитектура в банке, интеграции с Camunda/Kafka/gRPC
+- [ФИНАМ]([https://www.finam.ru/](https://www.finambank.ru/)) – микросервисная архитектура в банке, интеграции с Camunda/Kafka/gRPC
 - [ВСК](https://www.vsk.ru/) – внедрение микросервисов, переход с монолита, FSM, интеграции с внешними системами
 
 
