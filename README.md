@@ -15,7 +15,7 @@
 ## 📫 Контакты
 
 - GitHub: [Fekoz](https://github.com/Fekoz)
-- Email: qfekoz#gmail.com
+- Email: qfekoz@gmail.com
 - Telegram: https://t.me/fuv01
 - HH: https://hh.ru/resume/96946693ff037f67650039ed1f795641574449
 
