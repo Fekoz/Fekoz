@@ -23,9 +23,9 @@
 
 **Языки:** Go, Java, PHP, JavaScript/TypeScript, Bash, Lua, C# (legacy)
 
-**Фреймворки:** Spring (Java), Symfony (PHP), Angular, Node.js  
+**Фреймворки:** Spring (Java), Symfony (PHP), GO Kratos, Angular  
 
-**Архитектура:** C4, UML, BPMN, DDD, GRPC, REST, SOAP, WebSocket  
+**Архитектура:** C4, UML, BPMN, DDD, GRPC, REST, SOAP, WebSocket 
 
 **Интеграции и BPM:** Camunda, RabbitMQ, Apache Kafka, ActiveMQ, SonicMQ  
 
